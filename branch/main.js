@@ -6,6 +6,6 @@ const b=()=>{
   
 
 }
-const c=()=>{
+const d=()=>{
    alert("c func")
 }
