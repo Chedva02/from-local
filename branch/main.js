@@ -7,5 +7,5 @@ const b=()=>{
 
 }
 const c=()=>{
-    console.log("c func")
+   alert("c func")
 }
