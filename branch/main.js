@@ -9,3 +9,7 @@ const b=()=>{
 const d=()=>{
    alert("c func")
 }
+const f=()=>{
+    alert("f func")
+ }
+ 
