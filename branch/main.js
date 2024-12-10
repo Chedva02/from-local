@@ -7,9 +7,15 @@ const b=()=>{
 
 }
 const c=()=>{
-   console.log("ccc")
+  alert("ccc")
 }
+
+const d=()=>{
+    console.log("d")
+  }
+
 const f=()=>{
     alert("f func")
  }
  
+
