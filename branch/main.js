@@ -6,8 +6,8 @@ const b=()=>{
   
 
 }
-const d=()=>{
-   alert("c func")
+const c=()=>{
+   console.log("ccc")
 }
 const f=()=>{
     alert("f func")
