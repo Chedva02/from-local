@@ -9,7 +9,13 @@ const b=()=>{
 const c=()=>{
   alert("ccc")
 }
+
 const d=()=>{
     console.log("d")
   }
-  
+
+const f=()=>{
+    alert("f func")
+ }
+ 
+
